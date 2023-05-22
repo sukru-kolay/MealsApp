@@ -16,4 +16,6 @@ const CategoriesScreen = () => {
 
 export default CategoriesScreen
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+  //
+})
